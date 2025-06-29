@@ -1,9 +1,11 @@
 package arraysandhashing
 
-type IntSet map[int]bool
+import (
+	"github.com/lenardjombo/blind75/utils"
+)
 
 func ContainsDuplicate(nums []int) bool {
-    seen := make(IntSet)
+    seen := make(utils.IntSet)
     for _, value := range nums {
         if seen[value] {
             return true // duplicate found
