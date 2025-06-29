@@ -1,6 +1,6 @@
-# Blind75 DSA in Go
+# Blind75 DSA
 
-Welcome to my **Blind75** Data Structures & Algorithms (DSA) journey in **Go (Golang)**. This repo includes problem solutions, unit tests, pattern-based notes and a tracker for my progress.
+Welcome to my **Blind75** Data Structures & Algorithms (DSA) journey in **Go**. This repo includes problem solutions, unit tests, pattern-based notes and a tracker for my progress.
 
 ---
 
