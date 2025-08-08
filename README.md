@@ -332,11 +332,6 @@ Understanding **patterns** helps in recognizing solutions quickly and writing op
 
 ---
 
-> **"Pattern recognition is your most powerful weapon in problem solving.  
-> Train your eye to see structure, and your code will write itself."**
-
----
-
 ## Test Coverage
 
 This repo includes Go test files for each solution using `testing` package.  
