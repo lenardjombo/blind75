@@ -1,7 +1,7 @@
-# Blind75 DSA
+# Blind75 
 
 Welcome to my **Blind75** Data Structures & Algorithms (DSA) journey in **Go**. This repo includes problem solutions, unit tests, pattern-based notes and a tracker for my progress.
-
+Thanks to [Neetcode](https://neetcode.io/)
 ---
 
 ## DSA Pattern Cheat Sheet
