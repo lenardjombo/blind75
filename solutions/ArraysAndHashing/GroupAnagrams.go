@@ -1,3 +1,5 @@
+package arraysandhashing
+
 func groupAnagrams(strs []string) [][]string {
     res := make(map[string][]string)
 
