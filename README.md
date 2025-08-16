@@ -26,6 +26,7 @@ Understanding **patterns** helps in recognizing solutions quickly and writing op
 
 ---
 
+
 ### 2. Sliding Window
 **Use when:** Tracking subarrays or substrings.  
 **Best for:** Max/min/sum/count over dynamic or fixed-size ranges.  
